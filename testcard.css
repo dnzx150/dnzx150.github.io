@@ -1,0 +1,35 @@
+.header{
+    background-color: aquamarine;
+    padding-top:3px;
+    padding-bottom: 3px;
+}
+.menu{
+    margin:0;
+    padding:0;
+    padding-bottom: 3px;
+    background-color: yellow;
+    text-align:center;
+}
+.menu ul{
+    list-style-type: none;
+}
+.menu ul li{
+    float: left;
+    padding: 10px 15px;
+    font-size: 16px;
+}
+.middle {
+    border:1px solid black;
+    width:auto;
+    height: auto;
+}
+.text{
+    font-size: 8px;
+    border:1px solid black;
+}
+.link{
+    text-align: left;
+}
+.bt{
+    margin: bottom;
+}
